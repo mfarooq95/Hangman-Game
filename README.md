@@ -9,4 +9,4 @@ You must download and run this python file to intialize and play the hangman gam
 # words.py
 The words.py file is a python file containing a list of ASCII-approved words that is both imported and used by the hangman game itself in main.py
 
-You must download and store this .py file in the same directory in which the hangman game's main.py file is in in order to appropriately play hangman
+You must download and store this .py file in the same directory in which the hangman game's main.py file is in, in order to appropriately play hangman
